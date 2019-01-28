@@ -10,8 +10,8 @@ mkdir -p /myrepo/conf
 
 
 ## Sources
- - [https://manpages.debian.org/stretch/reprepro/reprepro.1]
- - [https://doc.ubuntu-fr.org/tutoriel/comment_creer_depot](https://doc.ubuntu-fr.org/tutoriel/comment_creer_depot)
+ - (https://manpages.debian.org/stretch/reprepro/reprepro.1)
+ - (https://doc.ubuntu-fr.org/tutoriel/comment_creer_depot)
  - [https://www.tiennotblog.fr/tutoriels/depot_debian.php](https://www.tiennotblog.fr/tutoriels/depot_debian.php)
  - [https://wiki.debian-fr.xyz/Reprepro](https://wiki.debian-fr.xyz/Reprepro)
 
